@@ -1,2 +1,2 @@
 # Simple-Calculator
-This was a simple calculator i made while learning the basics of coding with python!😀
+This was a simple calculator I made while learning the basics of coding with Python. 😀 It helped me understand how variables, user input, and basic operations work, and it was one of my first hands-on projects while getting started with programming. I hope this will be a starting point of my journey that i can look back to in the future. I will be outputting much more projects like this and they will advance with me.
